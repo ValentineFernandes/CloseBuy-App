@@ -1,4 +1,4 @@
-# food-delivery-app
+# CloseBuy App
 
 > A Vue.js project
 
