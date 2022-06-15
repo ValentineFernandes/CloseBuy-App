@@ -1,4 +1,4 @@
-# CloseBuy App
+# CloseBuy App 
 
 > A Vue.js project
 
